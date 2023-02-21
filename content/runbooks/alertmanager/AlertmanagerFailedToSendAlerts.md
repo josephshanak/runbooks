@@ -12,7 +12,7 @@ At least one instance is unable to routed alert to the corresponding integration
 ## Impact
 
 No impact since another instance should be able to send the notification,
-unless `AlertmanagerClusterFailedToSendAlerts` is also triggerd for the same integration.
+unless `AlertmanagerClusterFailedToSendAlerts` is also triggered for the same integration.
 
 ## Diagnosis
 
